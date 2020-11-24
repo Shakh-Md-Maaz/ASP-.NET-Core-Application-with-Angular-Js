@@ -1,0 +1,36 @@
+﻿@model PatientCreateViewModel
+@{
+    ViewBag.Title = "Patient Creation";
+}
+<div class="row">
+    <div class="col-md-8">
+        <h2>Admit Patient</h2>
+        <form asp-controller="Patient" asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label>Name</label>
+                <input asp-for="PatientName" class="form-control" />
+                <span asp-validation-for="PatientName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Age</label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Doctor</label>
+                <select asp-for="DoctorId" asp-items="@ViewBag.ListofCategry" class="form-control">
+                    <option value="">Select Doctor</option>
+                </select>
+                <span asp-validation-for="DoctorId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Image</label>
+                <input type="file" asp-for="UrlImage" class="form-control" />
+                <span asp-validation-for="UrlImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add Patient" class="btn btn-primary" style="width:auto" />
+            </div>
+        </form>
+    </div>
+</div>

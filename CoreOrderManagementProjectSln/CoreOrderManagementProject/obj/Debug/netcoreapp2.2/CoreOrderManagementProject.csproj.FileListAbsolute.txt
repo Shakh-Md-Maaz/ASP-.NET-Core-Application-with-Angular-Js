@@ -1,0 +1,193 @@
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\appsettings.json
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.deps.json
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.json
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.dev.json
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.dll
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csprojAssemblyReference.cache
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cache
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfoInputs.cache
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfo.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.input.cache
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.output.cache
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorCoreGenerate.cache
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cache
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csproj.CopyComplete
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\libman.json
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Registration.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfRoles.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfUsers.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\NotFound.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\EmployeeNotFound.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Update.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Payment\Index.cshtml.g.cs
+E:\AspCore1\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.deps.json
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.json
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.dev.json
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.dll
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csprojAssemblyReference.cache
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cache
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfoInputs.cache
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfo.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.input.cache
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.output.cache
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorCoreGenerate.cache
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Registration.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfRoles.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfUsers.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\NotFound.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\EmployeeNotFound.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Payment\Index.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cache
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cs
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+C:\Users\imran\Desktop\1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csproj.CopyComplete
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csprojAssemblyReference.cache
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cache
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfoInputs.cache
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfo.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.input.cache
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.output.cache
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorCoreGenerate.cache
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Registration.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfRoles.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfUsers.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\NotFound.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\EmployeeNotFound.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Patient\Create.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Patient\Edit.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Patient\Index.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Payment\Index.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cache
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cs
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.deps.json
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.json
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.dev.json
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.dll
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+C:\Users\imran\Desktop\core-1254159-Md Anarul Haque\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csproj.CopyComplete
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.deps.json
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.json
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.runtimeconfig.dev.json
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.dll
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\bin\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csprojAssemblyReference.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorAssemblyInfo.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfoInputs.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.AssemblyInfo.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.input.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.TagHelpers.output.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorCoreGenerate.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Registration.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfRoles.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListOfUsers.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Administration\NotFound.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\EmployeeNotFound.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Update.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Patient\Create.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Patient\Edit.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Patient\Index.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Payment\Index.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cache
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.RazorTargetAssemblyInfo.cs
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.Views.pdb
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.dll
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.pdb
+C:\Users\Sabbir Maaz\Desktop\hospital\CoreOrderManagementProjectSln\CoreOrderManagementProject\obj\Debug\netcoreapp2.2\CoreOrderManagementProject.csproj.CopyComplete
